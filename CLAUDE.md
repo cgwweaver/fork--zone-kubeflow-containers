@@ -1,8 +1,8 @@
 colin to do
-read chat, vs this
-split this into style/work start and goals vs dep/etc info
+- read chat, vs this
+- split this into style/work start and goals vs dep/etc info
 
-check exact mamba ran
+check exact mamba ran!
 
 
 # CLAUDE.md — context for work on zone-kubeflow-containers (fork)
